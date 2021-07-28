@@ -141,3 +141,4 @@ The app must have the following functionalities
 # googleSearch
 # googleSearchSuggestions
 # googleSearchSuggestions
+# tutorial
